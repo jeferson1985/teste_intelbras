@@ -14,6 +14,12 @@ a biblioteca Pandas.
 - Crie uma nova coluna chamada "NOME_SITUACAO" com a  concatenação do campo "NOME_FUNCIONARIO" e campo "SITUAÇÃO".
 - Apague todas as linhas que não possuírem qualquer "CATEGORIA".
 - Quantos profissionais ativos podem se aposentar com base apenas no cargo atual.
+- 
+Verifique se você tem o python instalado em sua máquina, executando o seguitnte comando
+python --version
+
+Se o python estiver instalado, basta fazer a instalação do Pandas rodando o comando:
+pip install pandas
 
 Para rodar o projeto basta clonar e executar no terminal a linha de comando:
 python main.py
